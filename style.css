@@ -1,0 +1,47 @@
+
+
+.heading{
+    color: red;
+}
+.heading1{
+    color: red;
+    font-style: italic;
+
+    
+}
+.li{
+    color:brown ;
+}
+.line3{
+    text-decoration: line-through;
+    color:maroon;
+}
+.line4{
+    text-decoration: underline;
+    font-style: italic;
+    color:maroon;
+}
+.heading2{
+    color: red;
+    font-style: italic;
+    
+}
+.li1{
+    text-decoration: none;
+    letter-spacing: 5px;
+    color: brown;
+}
+.sp{
+    background-color: yellow;
+}
+a{
+    text-decoration: none;
+    background-color: yellow;
+    color: red;
+    font-style: italic;
+ }
+ p{
+    color: brown;
+ }
+
+
